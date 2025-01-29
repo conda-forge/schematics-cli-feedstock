@@ -4,7 +4,7 @@
 
 [project]
 name = "schematics-cli-feedstock"
-version = "3.45.3"
+version = "3.45.4"
 description = "Pixi configuration for conda-forge/schematics-cli-feedstock"
 authors = ["@conda-forge/schematics-cli"]
 channels = ["conda-forge"]
