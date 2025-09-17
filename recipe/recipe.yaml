@@ -1,5 +1,5 @@
 context:
-  version: "20.3.1"
+  version: "20.3.2"
 
 package:
   name: schematics-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@angular-devkit/schematics-cli/-/schematics-cli-${{ version }}.tgz
-  sha256: c3bfdb11d65b1aefd0cb893ca2087efde1297a1c5f0e39a08cc7921b44ebcff8
+  sha256: 74822296614a8d5f0a359abd0b8b90a4175ac47669adbae7b2e7a3e4066119d6
 
 build:
   number: 0
